@@ -20,7 +20,7 @@ def norm(t: str) -> str:
 
 
 def get(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": "reference-check/1.0 (mailto:mehedi708901@gmail.com)"})
+    req = urllib.request.Request(url, headers={"User-Agent": "reference-check/1.0 (mailto:mahbubulislam331@gmail.com)"})
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read()
 
