@@ -28,7 +28,7 @@ def get(url: str) -> bytes:
 bad = 0
 for i, (key, body) in enumerate(re.findall(r"\\bibitem\{([^}]+)\}\s*(.+)", refs), 1):
     title = re.search(r"``(.+?),''", body).group(1)
-    doi = re.search(r"doi: (\S+)\.$", body)
+    doi = re.search(r"https://doi\.org/([^}]+)\}", body) or re.search(r"doi: (\S+)\.$", body)
     arx = re.search(r"arXiv:(\d{4}\.\d{4,5})", body)
     try:
         if doi:
