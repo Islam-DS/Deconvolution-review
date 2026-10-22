@@ -1,0 +1,164 @@
+{
+  "prisma": {
+    "identified": 1465,
+    "included": 960,
+    "composition only described (e.g. single-cell atlas), not estimated from bulk": 272,
+    "spatial transcriptomics deconvolution": 222,
+    "query terms only in index keywords": 10,
+    "duplicate": 1
+  },
+  "annual_total": {
+    "2010": 1,
+    "2011": 2,
+    "2012": 1,
+    "2013": 9,
+    "2014": 7,
+    "2015": 12,
+    "2016": 22,
+    "2017": 22,
+    "2018": 33,
+    "2019": 42,
+    "2020": 64,
+    "2021": 90,
+    "2022": 95,
+    "2023": 121,
+    "2024": 123,
+    "2025": 157,
+    "2026": 159
+  },
+  "cagr_2015_2025": 29.3,
+  "share_since_2021": 77.6,
+  "modality_counts": {
+    "RNA": 510,
+    "DNA methylation": 265,
+    "Both": 144,
+    "Unclassified": 41
+  },
+  "period_trends": {
+    "2010-2018": {
+      "records": 109,
+      "deep_learning": 1,
+      "multi_omics": 12,
+      "uncertainty": 7,
+      "methods": 12,
+      "benchmarks": 0
+    },
+    "2019-2022": {
+      "records": 291,
+      "deep_learning": 7,
+      "multi_omics": 38,
+      "uncertainty": 9,
+      "methods": 44,
+      "benchmarks": 6
+    },
+    "2023-2026": {
+      "records": 560,
+      "deep_learning": 21,
+      "multi_omics": 94,
+      "uncertainty": 23,
+      "methods": 62,
+      "benchmarks": 12
+    }
+  },
+  "study_types": {
+    "application": 792,
+    "method": 118,
+    "review": 32,
+    "benchmark": 18
+  },
+  "cancer_records": 294,
+  "methods_by_modality": {
+    "RNA": 100,
+    "DNA methylation": 16,
+    "Both": 16,
+    "Unclassified": 4
+  },
+  "n_sources": 393,
+  "n_countries": 106,
+  "intl_collab_pct": 40.3,
+  "mean_authors_per_doc": 11.3,
+  "n_cited_references": 38392,
+  "keyword_clusters": [
+    [
+      "deconvolution",
+      "RNA sequencing",
+      "transcriptomics",
+      "single cell RNA sequencing",
+      "gene expression",
+      "tumour microenvironment",
+      "bioinformatics",
+      "machine learning",
+      "immunotherapy",
+      "cancer",
+      "immune infiltration"
+    ],
+    [
+      "DNA methylation",
+      "epigenetics",
+      "cell type composition",
+      "EWAS",
+      "epigenetic clocks",
+      "aging",
+      "alzheimer's disease",
+      "prognosis",
+      "placenta",
+      "cord blood",
+      "breast cancer"
+    ],
+    [
+      "biomarker",
+      "inflammation"
+    ]
+  ],
+  "cluster_separation": {
+    "between_weight_pct": 22.8,
+    "records_with_keywords": 655,
+    "records_touching_either": 534,
+    "records_touching_both": 98,
+    "pct_both_of_either": 18.4
+  },
+  "keywords_by_period": {
+    "2010-2018": [
+      "DNA methylation (38)",
+      "epigenetics (21)",
+      "cell type composition (15)",
+      "deconvolution (13)",
+      "EWAS (8)",
+      "aging (7)",
+      "microarray (6)",
+      "gene expression (5)",
+      "cord blood (4)",
+      "blood (4)",
+      "breast cancer (4)",
+      "leukocytes (3)"
+    ],
+    "2019-2022": [
+      "DNA methylation (62)",
+      "deconvolution (49)",
+      "RNA sequencing (28)",
+      "epigenetics (25)",
+      "cell type composition (21)",
+      "gene expression (19)",
+      "single cell RNA sequencing (19)",
+      "transcriptomics (18)",
+      "EWAS (16)",
+      "alzheimer's disease (8)",
+      "tumour microenvironment (8)",
+      "bioinformatics (7)"
+    ],
+    "2023-2026": [
+      "deconvolution (110)",
+      "DNA methylation (99)",
+      "RNA sequencing (54)",
+      "epigenetics (50)",
+      "transcriptomics (42)",
+      "single cell RNA sequencing (38)",
+      "epigenetic clocks (24)",
+      "EWAS (21)",
+      "gene expression (21)",
+      "cell type composition (19)",
+      "tumour microenvironment (15)",
+      "aging (13)"
+    ]
+  }
+}

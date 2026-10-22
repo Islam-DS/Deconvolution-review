@@ -1,0 +1,101 @@
+audit_id,assistant,note
+A001,I,keyword deconvolution of synovial transcriptome
+A002,I,estimates and corrects cell type abundance in bulk RNA
+A003,E,single cell composition and GSEA only
+A004,E,single cell zebrafish study
+A005,I,EDec methylation deconvolution
+A006,E,cell subtype composition described
+A007,E,spatial deconvolution only
+A008,E,spatial cell typing
+A009,E,single cell technique
+A010,I,deconvolution of bulk immunotherapy cohorts
+A011,I,immune infiltration estimated by deconvolution
+A012,I,methylation reflects tumour composition
+A013,I,in silico deconvolution of bulk RNA
+A014,I,EWAS adjusted for cell type composition
+A015,E,review of neurons
+A016,E,single nucleus composition only
+A017,I,bulk deconvolution method
+A018,E,spatial study
+A019,I,review of bulk deconvolution
+A020,I,cell subtype proportions in 1037 bulk samples
+A021,I,methylation based blood composition
+A022,I,bulk deconvolution compared with single cell data
+A023,I,cell type deconvolution of transcriptome
+A024,E,single cell annotation
+A025,I,cell type proportions profiled from RNA-seq; borderline
+A026,E,composition discussed but not estimated in abstract
+A027,I,cell type deconvolution
+A028,I,proportions estimated from blood methylation
+A029,E,spatial study
+A030,E,spatial deconvolution review
+A031,E,single cell review
+A032,I,corrected for cell type composition
+A033,E,single cell study
+A034,I,cellular deconvolution of bronchial samples
+A035,E,gastruloid composition described
+A036,I,single cell based deconvolution of bulk RNA
+A037,I,adjusted for cell type proportions
+A038,I,immune deconvolution of methylation arrays
+A039,I,cellular deconvolution abundance scores
+A040,E,composition from single cell data
+A041,E,cytometry only
+A042,E,spatial study
+A043,E,spatial study
+A044,I,cellular deconvolution of patient transcriptomes
+A045,E,single cell proportions
+A046,I,xCell on bulk RNA-seq
+A047,E,spatial compartment data; borderline
+A048,E,single cell methods review
+A049,E,drug combination study
+A050,E,spatial deconvolution
+A051,I,estimated placental cell type composition
+A052,I,cell free DNA deconvolution method
+A053,E,clonal deconvolution of mutations
+A054,E,spatial deconvolution
+A055,I,bulk deconvolution method
+A056,E,spatial spot deconvolution
+A057,E,spatial deconvolution comparison
+A058,E,spatial deconvolution
+A059,I,bulk deconvolution method
+A060,I,methylation deconvolution of PDAC
+A061,E,single nucleus study
+A062,I,adjusted for cell type proportions
+A063,I,cell type aware bulk analysis
+A064,I,residualised for cell type proportions
+A065,I,proportions estimated from RNA-seq
+A066,E,single cell composition
+A067,I,adjusted for cell type proportions
+A068,I,Bisque
+A069,E,single nucleus study
+A070,I,bulk deconvolution method
+A071,E,spatial study
+A072,I,adjusted for estimated composition
+A073,I,composition of control lung expression; borderline
+A074,E,single cell study
+A075,E,single cell atlas
+A076,E,spatial deconvolution
+A077,E,spatial deconvolution
+A078,I,deconvolution of bulk tumour expression
+A079,I,liver deconvolution benchmark
+A080,I,deconvolution toolbox
+A081,E,composition named as confounder only; borderline
+A082,I,deconvolution benchmark
+A083,I,signatures for bulk tissue deconvolution
+A084,E,developmental proportioning
+A085,I,adjusted for estimated immune proportions
+A086,E,organoid study
+A087,I,bulk deconvolution method
+A088,E,organoid study
+A089,I,EWAS method addressing composition
+A090,E,spatial and single cell map
+A091,E,spatial model
+A092,I,surrogate variables for blood composition
+A093,I,cell type deconvolution of airway expression
+A094,E,spatial study
+A095,I,in silico cellular deconvolution
+A096,E,single cell annotation
+A097,I,cell type compositions of bulk tumours; borderline
+A098,I,cord blood methylation deconvolution
+A099,E,spatial atlas
+A100,I,adjusted for estimated proportions

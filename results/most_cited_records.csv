@@ -1,0 +1,26 @@
+Year,Cited by,Title,Source title,DOI,study_type
+2013,840,Epigenome-wide association data implicate DNA methylation as an intermediary of genetic risk in rheumatoid arthritis,Nature Biotechnology,10.1038/nbt.2487,application
+2016,769,Tumor immune microenvironment characterization in clear cell renal cell carcinoma identifies prognostic and immunotherapeutically relevant messenger RNA signatures,Genome Biology,10.1186/s13059-016-1092-z,application
+2019,732,Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology,Bioinformatics,10.1093/bioinformatics/btz363,application
+2018,716,Comprehensive functional genomic resource and integrative model for the human brain,Science,10.1126/science.aat8464,application
+2017,692,"Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array with minfi",Bioinformatics,10.1093/bioinformatics/btw691,application
+2019,666,Bulk tissue cell type deconvolution with multi-subject single-cell expression reference,Nature Communications,10.1038/s41467-018-08023-x,method
+2015,664,"Plasma DNA tissue mapping by genome-wide methylation sequencing for noninvasive prenatal, cancer, and transplantation assessments",Proceedings of the National Academy of Sciences of the United States of America,10.1073/pnas.1508736112,application
+2020,553,Cell profiling of mouse acute kidney injury reveals conserved cellular responses to injury,Proceedings of the National Academy of Sciences of the United States of America,10.1073/pnas.2005477117,application
+2021,531,"Comparative cellular analysis of motor cortex in human, marmoset and mouse",Nature,10.1038/s41586-021-03465-8,application
+2022,497,Cell type and gene expression deconvolution with BayesPrism enables Bayesian integrative analysis across bulk and single-cell RNA sequencing in oncology,Nature Cancer,10.1038/s43018-022-00356-3,method
+2015,404,"Lifetime stress accelerates epigenetic aging in an urban, African American cohort: Relevance of glucocorticoid signaling",Genome Biology,10.1186/s13059-015-0828-5,application
+2017,399,A comparison of reference-based algorithms for correcting cell-type heterogeneity in Epigenome-Wide Association Studies,BMC Bioinformatics,10.1186/s12859-017-1511-5,application
+2018,361,Brain Cell Type Specific Gene Expression and Co-expression Network Architectures,Scientific Reports,10.1038/s41598-018-27293-5,application
+2018,335,An optimized library for reference-based deconvolution of whole-blood biospecimens assayed using the Illumina HumanMethylationEPIC BeadArray,Genome Biology,10.1186/s13059-018-1448-7,application
+2020,334,Benchmarking of cell type deconvolution pipelines for transcriptomics data,Nature Communications ,10.1038/s41467-020-19015-1,benchmark
+2017,320,Relevance of tumor-infiltrating immune cell composition and functionality for disease outcome in breast cancer,Journal of the National Cancer Institute,10.1093/jnci/djw192,review
+2019,272,exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids,Cell,10.1016/j.cell.2019.02.018,application
+2018,268,Aging and Alzheimer’s disease: Comparison and associations from molecular to system level,Aging Cell,10.1111/acel.12802,review
+2020,264,Cell type–specific genetic regulation of gene expression across human tissues,Science,10.1126/SCIENCE.AAZ8528,application
+2022,247,propeller: testing for differences in cell type proportions in single cell data,Bioinformatics,10.1093/bioinformatics/btac582,application
+2014,244,MRI-localized biopsies reveal subtype-specific differences in molecular and cellular composition at the margins of glioblastoma,Proceedings of the National Academy of Sciences of the United States of America,10.1073/pnas.1405839111,application
+2013,232,Computational deconvolution: extracting cell type-specific information from heterogeneous samples,Current Opinion in Immunology,10.1016/j.coi.2013.09.015,review
+2021,230,CellTalkDB: A manually curated database of ligand-receptor interactions in humans and mice,Briefings in Bioinformatics,10.1093/bib/bbaa269,application
+2016,230,Differences and similarities between human and chimpanzee neural progenitors during cerebral cortex development,eLife,10.7554/eLife.18683,application
+2013,219,Blood-based profiles of DNA methylation predict the underlying distribution of cell types: A validation analysis,Epigenetics,10.4161/epi.25430,application

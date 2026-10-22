@@ -1,0 +1,14 @@
+# Licensed or copyrighted material: never publish
+data/scopus/*.csv
+data/pubmed/
+data/fulltext/
+data/hadaca3/
+results/screened.csv
+results/corpus_refs.csv
+results/audit/audit_sheet.xlsx
+
+# Manuscript stays private until it is submitted or published
+paper/
+
+# Python cache
+__pycache__/

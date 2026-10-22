@@ -1,0 +1,41 @@
+,local_citations
+Newman (2015) robust enumeration of cell subsets from tissue expression pr,238
+Newman (2019) determining cell type abundance and expression from bulk tis,177
+Houseman (2012) dna methylation arrays as surrogate measures of cell mixture,169
+Aryee (2014) minfi a flexible and comprehensive bioconductor package for ,145
+Wang (2019) bulk tissue cell type deconvolution with multisubject single,130
+Love (2014) moderated estimation of fold change and dispersion for rnase,120
+Ritchie (2015) limma powers differential expression analyses for rnasequenc,106
+Dobin (2013) star ultrafast universal rnaseq aligner,104
+Jaffe (2014) accounting for cellular heterogeneity is critical in epigeno,89
+Horvath (2013) dna methylation age of human tissues and cell types,85
+Avila (2020) benchmarking of cell type deconvolution pipelines for transc,80
+Reinius (2012) differential dna methylation in purified human blood cells i,76
+Teschendorff (2017) a comparison of referencebased algorithms for correcting cel,71
+Jew (2020) accurate estimation of cell composition in bulk expression t,69
+Hannum (2013) genomewide methylation profiles reveal quantitative views of,68
+Subramanian (2005) gene set enrichment analysis a knowledgebased approach for i,67
+Benjamini (1995) controlling the false discovery rate a practical and powerfu,66
+Aran (2017) xcell digitally portraying the tissue cellular heterogeneity,65
+Racle (2017) simultaneous enumeration of cancer and immune cell types fro,61
+Robinson (2010) edger a bioconductor package for differential expression ana,60
+Chu (2022) cell type and gene expression deconvolution with bayesprism ,59
+Johnson (2007) adjusting batch effects in microarray expression data using ,55
+Monaco (2019) rnaseq signatures normalized by mrna abundance allow absolut,54
+Gong (2013) deconrnaseq a statistical framework for deconvolution of het,54
+Yu (2012) clusterprofiler an r package for comparing biological themes,53
+Langfelder (2008) wgcna an r package for weighted correlation network analysis,53
+Shen-Orr (2010) cell typespecific gene expression differences in complex tis,53
+Sturm (2019) comprehensive evaluation of transcriptomebased celltype quan,52
+Houseman (2014) referencefree cell mixture adjustments in analysis of dna me,51
+Avila (2018) computational deconvolution of transcriptomics data from mix,49
+Tsoucas (2019) accurate estimation of celltype composition from gene expres,49
+Becht (2016) estimating the population abundance of tissueinfiltrating im,48
+Dong (2021) scdc bulk gene expression deconvolution by multiple singlece,48
+Abbas (2009) deconvolution of blood microarray data identifies cellular a,48
+Zhong (2013) digital sorting of complex tissues for cell typespecific gen,47
+Stuart (2019) comprehensive integration of singlecell data,46
+Salas (2018) an optimized library for referencebased deconvolution of who,46
+Finotello (2019) molecular and pharmacological modulators of the tumor immune,45
+Zheng (2018) identification of differentially methylated cell types in ep,44
+Leek (2012) the sva package for removing batch effects and other unwante,44

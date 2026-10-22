@@ -1,0 +1,17 @@
+Year,Title,Source title,DOI,Cited by
+2016,Epigenomic Deconvolution of Breast Tumors Reveals Metabolic Coupling between Constituent Cell Types,Cell Reports,10.1016/j.celrep.2016.10.057,84
+2016,Estimation of cell-type composition including T and B cell subtypes for whole blood methylation microarray data,Frontiers in Genetics,10.3389/fgene.2016.00023,18
+2019,MethylCC: Technology-independent estimation of cell type composition using differentially methylated regions,Genome Biology,10.1186/s13059-019-1827-8,18
+2019,An Effcient and Flexible Method for Deconvoluting Bulk RNA-Seq Data with Single-Cell RNA-Seq Data,Cells,10.3390/cells8101161,23
+2020,EPISCORE: Cell type deconvolution of bulk tissue DNA methylomes from single-cell RNA-Seq data,Genome Biology,10.1186/s13059-020-02126-9,89
+2021,DECONbench: a benchmarking platform dedicated to deconvolution methods for tumor heterogeneity quantification,BMC Bioinformatics,10.1186/s12859-021-04381-4,7
+2022,ARIC: Accurate and robust inference of cell type proportions from bulk gene expression or DNA methylation data,Briefings in Bioinformatics,10.1093/bib/bbab362,22
+2024,scMD facilitates cell type deconvolution using single-cell DNA methylation references,Communications Biology,10.1038/s42003-023-05690-5,18
+2024,"DECOMICS, a shiny application for unsupervised cell type deconvolution and biological interpretation of bulk omic data",Bioinformatics Advances,10.1093/bioadv/vbae136,1
+2025,Unifying DNA methylation-based in silico cell-type deconvolution with deconvMe,Bioinformatics Advances,10.1093/bioadv/vbaf201,0
+2025,A robust workflow to benchmark deconvolution of multi-omic data,Genome Biology,10.1186/s13059-025-03897-9,0
+2025,Reference-free deconvolution of complex samples based on cross-cell-type differential analysis: Systematic evaluations with various feature selection options,Frontiers in Genetics,10.3389/fgene.2025.1570781,0
+2025,An improved reference library and method for accurate cell-type deconvolution of bulk-tissue miRNA data,Nature Communications ,10.1038/s41467-025-60521-x,8
+2025,MethylBERT enables read-level DNA methylation pattern identification and tumour deconvolution using a Transformer-based model,Nature Communications ,10.1038/s41467-025-55920-z,12
+2025,EMixed: Probabilistic Multi-Omics Cellular Deconvolution of Bulk Omics Data,Journal of Data Science,10.6339/25-JDS1170,2
+2026,Deconvolution of DNA methylation data reveals cell type-specific epigenomic signatures in endometriosis and eutopic endometrium,Molecular Human Reproduction,10.1093/molehr/gaaf061,0
